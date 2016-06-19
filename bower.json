@@ -1,0 +1,11 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.2.4",
+    "angular-translate": "^2.11.0"
+  },
+  "resolutions": {
+    "angular-ui-router": "0.2.13"
+  }
+}

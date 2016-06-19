@@ -1,0 +1,23 @@
+<ion-view>
+    <ion-header-bar class="bar-assertive-900" ng-class="{expanded: isExpanded, 'has-header-fab-left': hasHeaderFabLeft, 'has-header-fab-right': hasHeaderFabRight}" align-title="center">
+        <div class="buttons">
+            <button class="button button-icon button-clear ion-ios-undo" ng-click="ekitaldietaraItzuli()"></button>
+        </div>
+        <h1 class="title">  {{ekitaldia.izenburua}}</h1>
+        <div class="buttons">
+            <button class="button button-icon button-clear ion-android-share-alt right" menu-toggle="right" ng-click="shareAnywhere()">
+            </button>
+        </div>
+        
+    </ion-header-bar>
+    <ion-content class="has-header padding" on-swipe-left="onSwipeLeft()" on-swipe-right="onSwipeRight()">
+        <div class="card">
+            <div class="item item-divider">
+                {{ekitaldia.hasieraOrdua+" -"}} {{ekitaldia.bukaeraOrdua + " "}}
+            </div>
+            <div class="item item-text-wrap">
+                {{ekitaldia.azalpena}}
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

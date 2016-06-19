@@ -1,0 +1,378 @@
+[{
+    "_id": "0",
+    "eguna": "Eguena",
+    "ekitaldiak": [{
+        "hasieraOrdua": "12:30",
+        "bukaeraOrdua": "13:30",
+        "izenburua": "Jai Hasiera. Umeen Ikuskizuna",
+        "azalpena": "Herriko alkateak eta alkate txikiek jaiei hasiera emango diete, guztiontzako, haur zein helduentzako jaiak aldarrikatuz. Ondoren, udalekuetako begirale eta umeek eskainitako dantza eta kantu saioa izango dira nagusi. ",
+        "lekua": "Herriko plaza",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "13:30",
+        "bukaeraOrdua": "14:00",
+        "izenburua": "Umeen herri bazkaria",
+        "azalpena": "Guztira 200 lagun inguru batuko dira elkarrekin bazkaltzeko. Herriko gaztetxoenek jaiak elkarrekin hasteko aukera paregabea izaten da. ",
+        "lekua": "Eskolako patioa",
+        "antolatzailea": "Pausoka"
+    }, {
+        "hasieraOrdua": "15:00",
+        "bukaeraOrdua": "16:00",
+        "izenburua": "Umeentzako jolasak",
+        "azalpena": "Irrintzi lehiaketa eta jolasak antolatuko ditu txozna batzordeak, bazkalostea girotzeko. Gaztetxoenek jaiak modu gozagarri batean has ditzaten!",
+        "lekua": "Eskolako patioa",
+        "antolatzailea": "Txozna batzordea"
+    }, {
+        "hasieraOrdua": "18:00",
+        "bukaeraOrdua": "18:30",
+        "izenburua": "Txistulari, buruhaundi eta trikitilariekin kalejira",
+        "azalpena": "Lehen suziriarekin batera herriko txistulari eta trikitilarien doinuz beteko dira herriko kaleak, guztion artean eta modu bolondresean jaiei hasiera emateko. Hauekin batera, aurtengo kintoak izango dira buruhandiak jantzi eta bati baino gehiagori korrikaldi eder baterako aukera emango diotenak. ",
+        "lekua": "Herriko kaleak",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "19:00",
+        "bukaeraOrdua": "20:00",
+        "izenburua": "Meza eta salbea",
+        "azalpena": "Urtero lez meza izango da elizan, eta ondotik salbea abestuko da. Aspaldiko garaietatik datorren ohitura da salbea abestea, berau latinez egiten delarik.",
+        "lekua": "Eliza",
+        "antolatzailea": "Elizbarrutia"
+    }, {
+        "hasieraOrdua": "19:00",
+        "bukaeraOrdua": "20:00",
+        "izenburua": "Txoznen irekiera",
+        "azalpena": "Bertan batuko gara txoznen irekierarekin txoznetako lehen tragoa elkarrekin hartzeko! Aurten txanpain eta guzti!",
+        "lekua": "Txoznagunea",
+        "antolatzailea": "Txozna batzordea"
+    }, {
+        "hasieraOrdua": "19:45",
+        "bukaeraOrdua": "20:00",
+        "izenburua": "Antzuolako zapia jartzea",
+        "azalpena": "Antzuolako zapia jarriko zaie 2014an zehar eta 2015eko uztail bitartean jaiotako umeei eta etor daitezkeen herriko hiru nagusienei. ",
+        "lekua": "Herriko plaza",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "20:00",
+        "bukaeraOrdua": "20:45",
+        "izenburua": "Dantza saioa eta bandera jasotzea",
+        "azalpena": "Antzuolako bandera igo ondoren ikurrin dantzarekin batera jasoko da Ikurrina. \n\nUdalbatzaren aurreskua. Aurten udalbatza berria osatu denez, udal ordezkari berriak ikusiko ditugu dantzan. Bejon deiela dantzari berriei!",
+        "lekua": "Herriko plaza",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "22:00",
+        "bukaeraOrdua": "23:50",
+        "izenburua": "Bentazaharreko Mutiko Alaiekin kale afaria",
+        "azalpena": "Urretxu-Zumarragako eta Urrestillako kideez osatutako boskoteak euskal kantu ezagun askoak kantatzeko aukera eskainiko digu. ",
+        "lekua": "Herriko plaza",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "23:50",
+        "bukaeraOrdua": "00:00",
+        "izenburua": "Mahai eta aulkiak jasotzea",
+        "azalpena": "Afaltzera joandakoen artean jasoko dira mahai eta jarlekuak.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "00:00",
+        "bukaeraOrdua": "00:30",
+        "izenburua": "Hontzaren jaitsiera",
+        "azalpena": "Kanpandorretik udaletxeko balkoira jaitsiko da hontza, sua eta musika lagun dituela. ",
+        "lekua": "Herriko plaza",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "00:30",
+        "bukaeraOrdua": "01:30",
+        "izenburua": "Kalejira Bentazaharreko Mutiko Alaiekin",
+        "azalpena": "1:30 arte kalejiran jarraituko du Bentazaharreko mutiko alaiak taldeak, beraiekin batera herriko kaleak kantuz alaitzera animatuz.",
+        "lekua": "Herriko kaleak",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "01:30",
+        "bukaeraOrdua": "02:00",
+        "izenburua": "Jolasak txoznagunean",
+        "azalpena": "Herritarron arteko jolas desberdinak, taldeka jolasteko prestatu!",
+        "lekua": "Txoznagunea",
+        "antolatzailea": "Txozna batzordea"
+    }]
+
+}, {
+    "_id": "1",
+    "eguna": "Eguakitza",
+    "ekitaldiak": [{
+        "hasieraOrdua": "10:00",
+        "bukaeraOrdua": "10:30:",
+        "izenburua": "Txistulari taldearekin goizeresia",
+        "azalpena": "Txistulari taldeak kaleetan zehar beraien piezarik alaienak kaleratuko dituzte, kaleak alaitzeko asmoz.",
+        "lekua": "Herriko kaleak",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "10:30",
+        "bukaeraOrdua": "12:45:",
+        "izenburua": "Gastronomia lehiaketa",
+        "azalpena": "Aurten su artean ongi moldatzen ez direnek ere izango dute aukera! Udako beroei aurre egiteko entsalada errusiarra prestatuko da. Kuadrillen eguna dela tarteko, eguna animoz hasteko ekintza paregabea!",
+        "lekua": "Kalebarren",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "11:00",
+        "bukaeraOrdua": "13:30",
+        "izenburua": "Umeen jolas parkea",
+        "azalpena": "Umeen jolas parkea egongo da eskolako patioan 13:30ak bitartean. Koltxonetekin oinak erre nahi ez badituzu... Eraman galtzerdiak!",
+        "lekua": "Eskolako patioa",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "12:45",
+        "bukaeraOrdua": "13:00",
+        "izenburua": "Lore lehiaketako irabazle aukeraketa.",
+        "azalpena": "Gastronomia lehiaketara hurbiltzen direnek sei hautagairen artean irabazlea boto bidez hautatzeko aukera izango dute.",
+        "lekua": "Kalebarren",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "13:00",
+        "bukaeraOrdua": "13:30",
+        "izenburua": "Lore eta gastronomia lehiaketetako sari banaketa.",
+        "azalpena": "Bozkak zenbatu eta entsaladak dastatu ondoren, lehiaketa bakoitzeko irabazleei dagozkien sariak emango zaizkie.",
+        "lekua": "Kalebarren",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "13:15",
+        "bukaeraOrdua": "14:00",
+        "izenburua": "Entsalada errusiar dastaketa.",
+        "azalpena": "Bertaratutakoek lehiaketarako egin diren entsaladak eta sagardoa dastatzeko aukera izango dute. Mesedez, jarri ilaran eta itxaron, bai, itxaron.",
+        "lekua": "Kalebarren",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "14:30",
+        "bukaeraOrdua": "16:00",
+        "izenburua": "Herri bazkaria",
+        "azalpena": "Kuadrilla eguna dela aprobetxatuz, lagunartean bazkaria prestatu eta elkarrekin bazkaltzeko aitzakia paregabea! Jan-edanak norberaren kontura, baita eguzkiari aurre egiteko krema, toldo, betaurreko eta abarrak!\n\nOndoren, irrintzi lehiaketa.",
+        "lekua": "Kalebarren",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "16:30",
+        "bukaeraOrdua": "18:30",
+        "izenburua": "Jolas parkea",
+        "azalpena": "Eskolako patioan puzgarriak, Play Stationak, jolasak eta abar luze bat izango da gaztetxo zein helduxeagoentzat.",
+        "lekua": "Eskolako patioa",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "18:30",
+        "bukaeraOrdua": "19:00",
+        "izenburua": "Poniak, zezentxoak eta jolasak",
+        "azalpena": "Bazkaltzetik digestio ondorena animoz hasteko zezentxoen aurrera irtetera animatuko zara? Aurten Kanpo gorrian (edo beltzean, nahieran) hesi berezia jarriko da eta zezentxo handixeagoak ekarriko dira.",
+        "lekua": "Kanpo gorria/beltza",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "19:00",
+        "bukaeraOrdua": "20:00",
+        "izenburua": "Baralde txaranga",
+        "azalpena": "Alegria Dulantziko taldea, 2005etik Euskal Herriko kale ugari alaitzen dabilena. Gurean ere halaxe egiteko asmotan datozela jakin dugu, zezentxoekin batera ere hor izango dira! Heldu alboko laguna eta segi dantzara!",
+        "lekua": "Herriko kaleak",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "22:00",
+        "bukaeraOrdua": "00:00",
+        "izenburua": "Pilota partidak",
+        "azalpena": "1. partida: Lasa-Urruzola VS Jaka-Irusta\n2. partida: Mendizabal-Barriola VS Altuna-Tolosa\n\nSarrerak: behean 20 € / goian 15 €",
+        "lekua": "Frontoia",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "22:00",
+        "bukaeraOrdua": "00:00",
+        "izenburua": "Ingo al deu?",
+        "azalpena": "Rosa, Rosa, baserriko larrosa... Andoaingo zazpi lagunez osatutako taldea. Euren kantez gain, besteen bertsioak jotzen dituzte.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": " "
+    }, {
+        "hasieraOrdua": "22:00",
+        "bukaeraOrdua": "00:00",
+        "izenburua": "Kontzertuak txoznagunean",
+        "azalpena": "- PETTI: Berako abeslari eta gitarrajolea, rock, folk-rock edota post-rocka ditu estilotzat\n\n- KLAK!SON: Antzuola, Zumarraga eta Urretxuko kideak dituen taldea. Pop-rockak, post-rockak psikodeliak, rock gitarreroak...\n\n- THE CONVICTS: The Convicts, 2007ko udaberrian sortu zen Arrasaten, gustuko musika egiteko ideiak bultzatuta eta ondo pasatzeko asmoz.\n\n- SUKARRA 37: Beasaingo rock tadea, aurrez gaztetxea bikain girotu zuena, berriz buelta Antzuolara!",
+        "lekua": "Txoznagunea",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "00:00",
+        "bukaeraOrdua": "01:00",
+        "izenburua": "DJ saioa",
+        "azalpena": "DJ saioa izango da Gaztetxean, gazte asanbladaren kontura",
+        "lekua": "Gaztetxea",
+        "antolatzailea": ""
+    }]
+
+}, {
+    "_id": "2",
+    "eguna": "Zapatua",
+    "ekitaldiak": [{
+        "hasieraOrdua": "07:00",
+        "bukaeraOrdua": "08:00",
+        "izenburua": "Askotariko sandwichak",
+        "azalpena": "Txoznagunean, eguna ondo hasteko, edo eguna ondo bukatzeko, askotariko sandwich desberdinak dastagai!",
+        "lekua": "Txoznagunea",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "09:55",
+        "bukaeraOrdua": "10:00",
+        "izenburua": "Alardeko kanoiak sutzea",
+        "azalpena": "1881an egin zen lehen alardean, gaur egun bezalaxe, bi kanoi sutu ziren. 1960ko hamarkada bukaerakoak dira oraingoak.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "10:00",
+        "bukaeraOrdua": "10:30",
+        "izenburua": "Txistulari taldearekin goizeresia",
+        "azalpena": "Txistulari taldeak kaleetan zehar beraien piezarik alaienak kaleratuko dituzte, kaleak alaitzeko asmoz.",
+        "lekua": "Herriko kaleak",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "11:00",
+        "bukaeraOrdua": "11:30",
+        "izenburua": "Marrazki lehiaketa",
+        "azalpena": "Gaztetxoenentzat antolatutako marrazki lehiaketa, gerturatu Herriko plazara eta margotzera!",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "11:30",
+        "bukaeraOrdua": "12:00",
+        "izenburua": "Bergarako bandaren kalejira.",
+        "azalpena": "76 kidez osatutako banda, Antzuolako kaleak beste doinu batzuekin alaitzen lagunduko dute.",
+        "lekua": "Herriko kaleak",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "12:30",
+        "bukaeraOrdua": "13:00",
+        "izenburua": "Bandaren kontzertua",
+        "azalpena": "Alfredo Gonzalez Chirlaqueren zuzendaritzapean.\n\nNERVA Pasodoblea\nOREGON Fantasia\nLOS EUSKAROS Suitea\nLAWRENCE OF ARABIA\tSoinu banda\nBIG BANDS IN CONCERT Moldaketa",
+        "lekua": "Zurrategi",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "19:00",
+        "bukaeraOrdua": "20:00",
+        "izenburua": "Mairuaren alardea",
+        "azalpena": "Antzuolar komunitatearen autoafimazio errito nagusia. Balio historiko eta folkloriko handia du alardeak, Euskal Herriko kultura ondarea ikaragarri aberasten duena.\n\nwww.antzuolakoalardea.com",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "20:30",
+        "bukaeraOrdua": "21:30",
+        "izenburua": "Skandalue elektrotxaranga",
+        "azalpena": "Txistulari taldea edota bandarenak baino doinu gogorxeagoekin animatuko dute Antzuolako herria!",
+        "lekua": "Herriko kaleak",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "22:30",
+        "bukaeraOrdua": "00:00",
+        "izenburua": "Joselu Anaiak",
+        "azalpena": "Azken urteetan jaietan hutsik egiten ez duen taldea, aurten ere gurekin! Ruiz de Gordoa anaiak izan zitezkeen, baina kantariaren izena du boskoteak.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "23:00",
+        "bukaeraOrdua": "23:05",
+        "izenburua": "Suzko zezena",
+        "azalpena": "Suzko zezenak herriko plazara gerturatzen den orori erakustaldi pirotekniko batez gozatzeko aukera eskainiko dio.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "23:00",
+        "bukaeraOrdua": "01:00",
+        "izenburua": "Kontzertuak",
+        "azalpena": "- JOXE REPLAY: Kunbia, SKA eta Reggae musika estiloak nahasiz plazak alaitzen dituen talde Baionarra. Joxe Ripiau taldearen bertsioak ere jotzen dituzte.\n\n- ITZIARREN SEMEAK: Ohiko ska eta punk erritmoei, Europako ekialdeko doinuak eta Mediterraneokoak gehitu ditu \"Revolta\" diskoan talde Mungiarrak\n\n- FAN&GO: Bost kideko talde Zarauztarrak erromeria giroa martxan jarriko du txoznagunean, ez galdu!",
+        "lekua": "Txoznagunea",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "23:15",
+        "bukaeraOrdua": "00:00",
+        "izenburua": "Joselu Anaiak",
+        "azalpena": "Suzko zezenaren saioaren ostean, berriz ekingo diote kontzertuari. ",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }]
+
+},{
+    "_id": "3",
+    "eguna": "Domekia",
+    "ekitaldiak": [{
+        "hasieraOrdua": "07:00",
+        "bukaeraOrdua": "08:00",
+        "izenburua": "Askotariko frutak",
+        "azalpena": "Txoznagunean, eguna ondo hasteko, edo eguna ondo bukatzeko, askotariko fruta desberdinak dastagai!",
+        "lekua": "Txoznagunea",
+        "antolatzailea": "Antzuolako Udala"
+    }, {
+        "hasieraOrdua": "12:00",
+        "bukaeraOrdua": "13:00",
+        "izenburua": "Break dance erakustaldia",
+        "azalpena": "Break dance eta hainbat dantza desberdinen erakustaldia, Canden Town akademiaren eskutik, Herriko Plazan. Antzuolarrek ere parte hartuko dute.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "13:00",
+        "bukaeraOrdua": "13:30",
+        "izenburua": "Bits jaia",
+        "azalpena": "Animatzen den guztiarentzat freskagarri gerta daitekeen ekintza.Plisti, plasta...",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "14:30",
+        "bukaeraOrdua": "15:30",
+        "izenburua": "Herri bazkaria",
+        "azalpena": "Herri bazkaria egongo da Ez Dot Moztuko Bizarra taldeak antolatuta.\n\nMenua: entsalada mistoa, oilasko-paella, postrea eta kafea\nPrezioa: 14 €\nTxartelen salmenta: Gaztetxean Uztailaren 16ra arte",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "16:00",
+        "bukaeraOrdua": "17:00",
+        "izenburua": "Anje Duhalde",
+        "azalpena": "Azken orduko ezinak medio, Fermin Valenciaren ordez, Anje Duhalde, Arrangoitzeko kantaria izango dugu bazkalostea girotzeko asmoz!",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "18:30",
+        "bukaeraOrdua": "19:00",
+        "izenburua": "Dirt jump eta trial erakustaldia.",
+        "azalpena": "Europan eta Espainiar Estatuan sari ugari irabazitako bost gidarik, bizikletaz zirkuitoak zeharkatu, airean saltoak egin eta plataformak igoko dituzte. Trebezia eta emozioak nagusi.",
+        "lekua": "Zurrategi",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "20:00",
+        "bukaeraOrdua": "20:30",
+        "izenburua": "Lizarrako Larrain dantza",
+        "azalpena": "Berez, Lizarrako dantza, gero Nafarroa osora zabaldu zena eta azken urteotan Euskal Herriko plaza ugaritan dantzatzen dena.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "20:15",
+        "bukaeraOrdua": "21:00",
+        "izenburua": "Pintxo dastaketa",
+        "azalpena": "Pintxo dastaketa, AKEren eskutik. Futbol taldekoak baloia laga eta sukaldari lanetan izango dira. ",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "20:45",
+        "bukaeraOrdua": "22:00",
+        "izenburua": "Ezten giro",
+        "azalpena": "(20:45-22:00) Oiartzungo neska taldea aurten hirugarrenez izango dugu gure artean. Aurten ere gogotsu datoz, animoz dagoena dantzan jartzeko, eta goibel dagoena dantzara erakartzeko.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "23:00",
+        "bukaeraOrdua": "00:00",
+        "izenburua": "Ezten giro",
+        "azalpena": "(23:00-00:00) Oiartzungo neska taldea aurten hirugarrenez izango dugu gure artean. Aurten ere gogotsu datoz, animoz dagoena dantzan jartzeko, eta goibel dagoena dantzara erakartzeko.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "00:00",
+        "bukaeraOrdua": "00:30",
+        "izenburua": "Hontzaren igoera",
+        "azalpena": "Herriko jaiei amaiera emate aldera hontzak udaletxetik kanpandorrerako bidea egingo du, hurrengo urtera arte Antzuolarrak bertatik zaintzeko.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }, {
+        "hasieraOrdua": "00:15",
+        "bukaeraOrdua": "01:00",
+        "izenburua": "Ezten giro",
+        "azalpena": "(00:15-01:00) Oiartzungo neska taldea aurten hirugarrenez izango dugu gure artean. Aurten ere gogotsu datoz, animoz dagoena dantzan jartzeko, eta goibel dagoena dantzara erakartzeko.",
+        "lekua": "Herriko plaza",
+        "antolatzailea": ""
+    }]
+
+}]

@@ -1,0 +1,49 @@
+[{
+    "_id": "0",
+    "izena": "Abu Sibel",
+    "koordenatuak": [{
+        "lat": "22.336944",
+        "lng": "31.625556"
+    }]
+
+}, {
+    "_id": "1",
+    "izena": "Karnak",
+    "koordenatuak": [{
+        "lat": "25.718372",
+        "lng": "32.65805"
+    }]
+
+}, {
+    "_id": "2",
+    "izena": "Luxor",
+    "koordenatuak": [{
+        "lat": "25.7",
+        "lng": "32.639167"
+    }]
+
+}, {
+    "_id": "3",
+    "izena": "Edfu",
+    "koordenatuak": [{
+        "lat": "24.977778",
+        "lng": "32.873333"
+    }]
+
+}, {
+    "_id": "4",
+    "izena": "Esfinge",
+    "koordenatuak": [{
+        "lat": "29.975278",
+        "lng": "31.137778"
+    }]
+}, {
+    "_id": "5",
+    "izena": "Guiza",
+    "koordenatuak": [{
+        "lat": "30.01",
+        "lng": "31.21"
+    }]
+
+}]
+
